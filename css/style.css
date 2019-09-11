@@ -1,0 +1,56 @@
+.aaaa {
+	background: url(../img/deadpool.jpeg);
+	text-indent: -9999px;
+	height: 124px;
+	width: 124px;
+}
+.a{
+	float: right;
+	margin-right:151px;
+}
+ul{
+	text-decoration: none;
+}
+ul a:hover {
+	text-decoration: underline;
+	font-size: 15px;
+	color: green;
+}
+nav li{
+  display: inline;
+}
+.primary{
+	background: #e3e3e3;
+}
+#qqqq {
+	background-color: orange;
+	margin: auto;
+	width: 950px;
+	text-align: center;
+	font-size: 30px;
+}
+#qwer {
+ display: inline;
+}
+body{
+	font-family: 'El Messiri', sans-serif;
+}
+.qa{
+	font-size: 30px;
+}
+#qsc{
+	font-size: 20px;
+}
+.qaz {
+	text-decoration: none;
+	color: red;
+}
+
+#inlin {
+ display: inline;
+}
+
+nav{
+	display: inline;
+}
+
